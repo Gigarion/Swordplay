@@ -13,6 +13,6 @@ The last person standing wins.
 For example, the 5 case:
 (number with a trailing period has the sword)
 
-1. 2 3 4 5 => 1 3 5. => 3. 5 => 3
+1. 2 3 4 5 => 1 3 5. => 3. 5 => 3.
    
 in this case, 3 is the winner.
